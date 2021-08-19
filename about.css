@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(https://image.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Source Serif Pro', serif,'Times New Roman', Times, serif;
+}
+
+
+h1 {
+	text-align: center;
+	padding: 43px;
+	font-size: 90px;
+	
+}
+    
+
+p {
+	
+	margin-left: 21px;
+	margin-right: 10px;
+    font-size: 43px;
+    font-weight: 400;
+}  

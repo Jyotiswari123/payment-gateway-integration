@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0.5)) ,url(https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9uYXRpb258ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80)  ;
+    background-size: cover;
+    font-family:'Arvo','Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+        ul {
+           
+            padding: 20px;
+           
+           float:right
+         
+        }
+    
+
+ul li{
+    display: inline-block;
+}
+
+ul li a {
+	color: #f1e3e3;
+  
+	text-decoration: none;
+	padding: 17px;
+    
+	
+}
+ul li a:hover{
+    background-color:orange;
+    color:black;
+}
+.payment a {
+	text-decoration: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: #101010;
+	font-size: 50px;
+	font-weight: 400;
+	border: aliceblue;
+	background-color: aqua;
+	padding: 14px;
+	border-radius: 42px;
+}
+.payment a:hover{
+    background-color: azure;
+    color: rgb(23, 72, 233);
+}
